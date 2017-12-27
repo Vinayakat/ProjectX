@@ -1,0 +1,6 @@
+new line
+start
+new line
+text
+test
+line from branch
